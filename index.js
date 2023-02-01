@@ -1,8 +1,8 @@
 const resultsEl = document.getElementById("results-el");
 const resultsHex = document.getElementById("res-hex");
 const url = "https://www.thecolorapi.com";
-let hex = "031D9F";
-let mode = "analogic";
+let hex = "000000";
+let mode = "monochrome";
 let htmlRes = "";
 let htmlHex = "";
 
